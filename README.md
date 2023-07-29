@@ -17,9 +17,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/ipranjalmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ipranjalmishra" height="30" width="40" /></a>
 <a href="https://instagram.com/ipranjalmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ipranjalmishra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCaMtIk3mepD4NbBicP0-WJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@_code.play_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCaMtIk3mepD4NbBicP0-WJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@_code.play_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ipranjalmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ipranjalmishra" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCaMtIk3mepD4NbBicP0-WJw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ipranjalmishra" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ipranjalmishra" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ipranjalmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ipranjalmishra" height="30" width="40" /></a>
 </p>
 
