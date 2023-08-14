@@ -9,9 +9,12 @@
 
 - 🌱 I’m currently learning **Python, Operating System, Data Structures and Algorithms**
 
+- 🗒️ Portfolio **<a href="https://i-pranjalmishra.github.io/Portfolio/">Live</a>**
+
 - 💬 Ask me about **C++, MERN Stack, Data Structures, Python**
 
 - 📫 How to reach me **pranjalmishracontact@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
